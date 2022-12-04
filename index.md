@@ -18,19 +18,19 @@ My email address is teija.alasalmi@helsinki.fi
 
 ## CV
 
-[See my CV in pdf](/assets/documents/cv_2022_Teija.pdf)
+See my CV in [pdf](/assets/documents/cv_2022_Teija.pdf)
 
-## Courses I've Taken
+## Courses I Have Taken
 
-[Portuguese 1A](https://studies.helsinki.fi/opintotarjonta/cu/hy-CU-134767408-2021-08-01/KIK-PO111/Portugali_1A), fall 2022.
+[Portuguese 1A](https://studies.helsinki.fi/opintotarjonta/cu/hy-CU-134767408-2021-08-01/KIK-PO111/Portugali_1A), autumn 2022.
 
-[Portugal’s history and culture](https://studies.helsinki.fi/courses/cur/hy-opt-cur-2223-67c3615c-6fec-4714-8025-f3fffb215813/KIK-PO112/Portugalin_historia_ja_kulttuuri_Lectures), fall 2022.
+[Portugal’s history and culture](https://studies.helsinki.fi/courses/cur/hy-opt-cur-2223-67c3615c-6fec-4714-8025-f3fffb215813/KIK-PO112/Portugalin_historia_ja_kulttuuri_Lectures), autumn 2022.
 
-[Command Line Tools for Linguists](https://studies.helsinki.fi/courses/cu/hy-CU-134651633-2021-08-01), fall 2022.
+[Command-line Tools for Linguists](https://studies.helsinki.fi/courses/cu/hy-CU-134651633-2021-08-01), autumn 2022.
 
 ## Projects
 
-[Command line course](cmdline_course.md) - Learnings from the course I took during autumn 2022.
+[Command-line course](cmdline_course.md) - Learnings from the course I took during autumn 2022.
 
 [Basics of Kotlin](https://teijatestaaja.github.io/kotlin-peruskurssi/) - A web course designed by me as part of my Bachelor's Thesis at Haaga-Helia University of Applied Sciences.
 
