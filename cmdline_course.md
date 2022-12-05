@@ -125,7 +125,7 @@ By doing the final project I learned how to
 - fork a public repository in GitHub
 - write documents using markdown
 - assess what I had learned during the course
-- merge a development branch which master branch
+- merge a development branch with master branch
 - build and display my webpage using command
 ```
 bundle exec jekyll serve
@@ -147,7 +147,7 @@ I can warmly recommend Command-line Tools for Linguists web course to anyone int
 - [Tips for ssh and scp commands](https://acloudguru.com/blog/engineering/ssh-and-scp-howto-tips-tricks)
 - [chmod command](https://www.tutorialspoint.com/unix_commands/chmod.htm)
 - [Unix/Linux process management](https://www.tutorialspoint.com/unix/unix-processes.htm)
-. [Compressing directories and files in Unix](https://help.dreamhost.com/hc/en-us/articles/360002747432-UNIX-commands-Compressing-directories-and-files)
+- [Compressing directories and files in Unix](https://help.dreamhost.com/hc/en-us/articles/360002747432-UNIX-commands-Compressing-directories-and-files)
 - [Command line tricks for data scientists](https://medium.com/@kadek/command-line-tricks-for-data-scientists-c98e0abe5da)
 - [Bash Scripting Tutorial - 1. What is a Bash Script?](https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php)
 - [Bash Scripting Tutorial - 2. Variables](https://ryanstutorials.net/bash-scripting-tutorial/bash-variables.php)
