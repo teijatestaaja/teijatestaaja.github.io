@@ -21,7 +21,7 @@ However, I had not previously used the command for downloading content, even tho
 wget https://www.gutenberg.org/files/2000/2000-0.txt
 ```
 
-## Week 2 Navigationg a UNIX System
+## Week 2 Navigating a UNIX System
 
 The second week deepened understanding about the UNIX system as well as on working on a remote server using the programs ssh and scp. Again I was familiar with most of the commands used in UNIX for copying, moving and deleting files and folders, or how to visit the root of the system, or change the read and write permissions of a file. However, this week I learned how to compress a folder directory into compressed.tgz package using tar:
 
